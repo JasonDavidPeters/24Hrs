@@ -1,0 +1,8 @@
+---24HrsToSaveMyLife or 24HrsToSaveALife---
+
+Outline:
+
+* User enters a maximum of 10 goals for the day.
+* 24 HR counter starts as soon as user presses start\play
+* Interval updates to the user, perhaps soft threatening them about their uncompleted goals
+* Interval motivating updates / suggestions
